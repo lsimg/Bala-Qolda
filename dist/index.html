@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#35b8a0">
+  <meta name="description" content="BalaQoldau — демонстрационная платформа поддержки семьи и специалистов.">
+  <title>BalaQoldau — каждый шаг важен</title>
+  <link rel="stylesheet" href="styles.css?v=14">
+</head>
+<body>
+  <a class="skip-link" href="#app">Перейти к содержанию</a>
+  <header class="site-header">
+    <a class="brand" href="#home" data-route="home" aria-label="BalaQoldau, на главную">
+      <span class="brand-mark" aria-hidden="true">BQ</span>
+      <span><strong>BalaQoldau</strong><small>Баланы Қолдау</small></span>
+    </a>
+    <button class="menu-toggle icon-btn" id="menuToggle" aria-label="Открыть меню" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav" aria-label="Основная навигация">
+      <button data-route="home" class="nav-link active">Главная</button>
+      <button data-route="specialists" class="nav-link">Специалисты</button>
+      <button data-route="qadam" class="nav-link">Қадам</button>
+      <button data-route="soyle" class="nav-link">Сөйле</button>
+      <button data-route="materials" class="nav-link">Материалы</button>
+      <button data-route="about" class="nav-link">О платформе</button>
+      <div class="mobile-nav-actions">
+        <div class="segmented mobile-language" aria-label="Выбор языка">
+          <button class="lang-btn active" data-lang="ru" type="button">RU</button>
+          <button class="lang-btn" data-lang="kk" type="button">KZ</button>
+        </div>
+        <label class="mobile-role-label" for="mobileRoleSelect">Демо-роль</label>
+        <select id="mobileRoleSelect" class="mobile-role-select">
+          <option value="parent">Родитель</option>
+          <option value="specialist">Специалист</option>
+          <option value="admin">Администратор</option>
+        </select>
+        <button class="btn btn-soft mobile-account-btn" id="mobileLoginBtn" type="button">Войти</button>
+      </div>
+    </nav>
+    <div class="header-actions">
+      <div class="segmented compact" aria-label="Язык интерфейса">
+        <button class="lang-btn active" data-lang="ru">RU</button>
+        <button class="lang-btn" data-lang="kk">KZ</button>
+      </div>
+      <label class="role-picker"><span>Демо-роль</span>
+        <select id="roleSelect" aria-label="Выберите демонстрационную роль">
+          <option value="parent">Родитель</option>
+          <option value="specialist">Специалист</option>
+          <option value="admin">Администратор</option>
+        </select>
+      </label>
+      <button class="btn btn-soft" id="loginBtn">Войти</button>
+      <button class="btn btn-primary header-cta" data-route="specialists">Найти специалиста</button>
+    </div>
+  </header>
+  <div class="demo-mode-banner" id="demoBanner" role="status">
+    <span aria-hidden="true">ⓘ</span>
+    <span id="demoBannerText">Демо-режим: данные не сохраняются в реальный профиль.</span>
+  </div>
+
+  <main id="app" tabindex="-1">
+    <section class="view active" id="homeView" data-view="home">
+      <div class="hero">
+        <div class="hero-copy reveal">
+          <span class="eyebrow">Цифровая поддержка семьи · Қазақстан</span>
+          <h1>Один план.<br>Одна команда.<br><em>Каждый шаг важен.</em></h1>
+          <p class="hero-lead">Найдите подходящего специалиста, получите индивидуальный план и отслеживайте важные шаги в развитии ребёнка.</p>
+          <div class="button-row">
+            <button class="btn btn-primary btn-large" data-route="survey">Подобрать специалиста <span>→</span></button>
+            <button class="btn btn-coral btn-large" data-route="soyle">Открыть Сөйле <span>♪</span></button>
+            <button class="text-btn" data-scroll="how">Как это работает ↓</button>
+          </div>
+          <div class="trust-strip" aria-label="Преимущества">
+            <span>✓ Проверенные специалисты</span>
+            <span>✓ RU / KZ</span>
+            <span>✓ Данные под контролем семьи</span>
+          </div>
+        </div>
+        <div class="hero-art" aria-label="Дружелюбные животные-помощники">
+          <div class="sun-doodle" aria-hidden="true">✦</div>
+          <img src="assets/images/animal-helpers.png" alt="Жираф, лев, слон, зайчик, медвежонок и птица — помощники BalaQoldau">
+          <div class="hero-insights" aria-label="Демонстрационные показатели">
+            <div class="hero-note note-one"><b>7 дней</b><span>серия занятий</span></div>
+            <div class="hero-note note-two"><b>+18%</b><span>динамика навыка</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <section class="benefits" aria-label="Возможности платформы">
+          <article><span class="benefit-icon mint">✓</span><div><b>Квалификация проверена</b><small>Понятные профили специалистов</small></div></article>
+          <article><span class="benefit-icon yellow">◎</span><div><b>Единый план</b><small>Цели, задания и комментарии</small></div></article>
+          <article><span class="benefit-icon blue">↗</span><div><b>Понятная динамика</b><small>Без сравнений с другими детьми</small></div></article>
+          <article><span class="benefit-icon coral">♥</span><div><b>Сөйле рядом</b><small>Просьбы, эмоции и потребности</small></div></article>
+        </section>
+
+        <section class="section" id="how">
+          <div class="section-heading centered">
+            <span class="eyebrow">Путь поддержки</span>
+            <h2>Всё важное — в одном месте</h2>
+            <p>Пять простых шагов помогают семье и специалисту двигаться в одном направлении.</p>
+          </div>
+          <div class="steps-road" id="stepsRoad"></div>
+        </section>
+
+        <section class="section specialties-section">
+          <div class="section-heading split">
+            <div><span class="eyebrow">К кому обратиться</span><h2>Найдите своего специалиста</h2></div>
+            <button class="text-btn" data-route="specialists">Смотреть всех →</button>
+          </div>
+          <div class="specialty-scroller" id="specialtyCards"></div>
+        </section>
+
+        <section class="section module-preview">
+          <article class="module-card qadam-card">
+            <div><span class="module-kicker">01 · План развития</span><h2>Қадам</h2>
+              <p>Индивидуальные цели, домашние задания и спокойная, понятная динамика навыков.</p>
+              <button class="btn btn-dark" data-route="qadam">Открыть Қадам →</button></div>
+            <div class="mini-progress-card">
+              <span>Цель недели</span><b>Попросить воду</b>
+              <div class="progress"><i style="width:72%"></i></div><small>72% · заметный прогресс</small>
+            </div>
+          </article>
+          <article class="module-card soyle-card">
+            <div><span class="module-kicker">02 · Голос ребёнка</span><h2>Сөйле</h2>
+              <p>Большие яркие карточки помогают выражать просьбы, эмоции и потребности.</p>
+              <button class="btn btn-dark" data-route="soyle">Открыть Сөйле →</button></div>
+            <div class="phrase-preview"><span>Я</span><span>хочу</span><span>пить</span><button aria-label="Озвучить фразу">▶</button></div>
+          </article>
+        </section>
+
+        <section class="section">
+          <div class="section-heading centered"><span class="eyebrow">Ответы специалистов</span><h2>Полезно, спокойно, по делу</h2></div>
+          <div class="article-grid" id="homeArticles"></div>
+          <div class="info-banner">ⓘ Материалы носят образовательный характер и не заменяют индивидуальную консультацию.</div>
+        </section>
+
+        <section class="section faq-layout">
+          <div class="faq-intro"><span class="eyebrow">Частые вопросы</span><h2>Вы не обязаны знать всё сразу</h2><p>Мы собрали короткие ответы на вопросы, с которых часто начинается путь семьи.</p><div class="animal-peek">🦒</div></div>
+          <div class="faq-list" id="faqList"></div>
+        </section>
+
+        <section class="section reviews-section">
+          <div class="section-heading centered"><span class="eyebrow">Демо-истории</span><h2>Когда команда рядом</h2></div>
+          <div class="review-grid" id="reviewGrid"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="view" id="specialistsView" data-view="specialists">
+      <div class="page-hero compact-hero">
+        <div><span class="eyebrow">Каталог специалистов</span><h1>Поддержка, которая подходит вашей семье</h1><p>Все профили и отзывы на этой странице — демонстрационные.</p></div>
+        <button class="btn btn-primary btn-large" data-route="survey">Не знаю, кого выбрать</button>
+      </div>
+      <div class="catalog-layout container">
+        <aside class="filters" id="filtersPanel">
+          <div class="filter-title"><h2>Фильтры</h2><button class="text-btn" id="resetFilters">Сбросить</button></div>
+          <label>Специализация<select id="filterSpecialty"><option value="">Все направления</option></select></label>
+          <label>Город<select id="filterCity"><option value="">Весь Казахстан</option></select></label>
+          <label>Формат<select id="filterFormat"><option value="">Любой</option><option value="online">Онлайн</option><option value="in_person">Очно</option></select></label>
+          <label>Язык<select id="filterLanguage"><option value="">Любой</option><option value="ru">Русский</option><option value="kk">Қазақша</option></select></label>
+          <label>Стоимость до <output id="priceOutput">30 000 ₸</output><input type="range" id="filterPrice" min="8000" max="30000" value="30000" step="1000"></label>
+          <label>Рейтинг<select id="filterRating"><option value="0">Любой</option><option value="4.7">4.7 и выше</option><option value="4.9">4.9 и выше</option></select></label>
+          <label class="check-line"><input type="checkbox" id="filterSoon"> Ближайшая запись до 3 дней</label>
+          <div class="privacy-note">🔒 Не указывайте в поиске лишние персональные или медицинские данные.</div>
+        </aside>
+        <div class="catalog-main">
+          <div class="catalog-toolbar">
+            <label class="search-box"><span>⌕</span><input id="specialistSearch" type="search" placeholder="Имя, направление или город"></label>
+            <button class="btn btn-soft filter-mobile-btn" id="openFilters">Фильтры</button>
+            <label class="sort-label">Сортировка<select id="sortSpecialists"><option value="recommended">Рекомендуемые</option><option value="rating">По рейтингу</option><option value="price">Сначала доступнее</option><option value="soon">Ближайшая запись</option></select></label>
+          </div>
+          <div class="results-meta"><b id="resultCount"></b><span>Квалификация отмечена только для демонстрации интерфейса</span></div>
+          <div class="specialists-grid" id="specialistsGrid" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="surveyView" data-view="survey">
+      <div class="survey-shell">
+        <aside class="survey-aside">
+          <div class="survey-aside-content">
+            <button class="back-link" data-route="specialists">← К каталогу</button>
+            <span class="eyebrow">Бережный подбор</span>
+            <h1 class="assessment-title" id="surveyTitle">
+              <span>Расскажите,</span>
+              <span>какая поддержка</span>
+              <span>нужна ребёнку</span>
+            </h1>
+            <p>Анкета не ставит диагноз. Она помогает отфильтровать демонстрационные направления.</p>
+            <div class="survey-progress" aria-label="Прогресс анкеты"><i id="surveyProgress"></i></div>
+            <div class="survey-step-label" id="surveyStepLabel">Шаг 1 из 5</div>
+          </div>
+          <div class="survey-animals" aria-hidden="true">
+            <span class="survey-animal-crop animal-giraffe animated-animal"></span>
+            <span class="survey-animal-crop animal-bird animated-animal"></span>
+          </div>
+        </aside>
+        <form class="survey-form" id="surveyForm" novalidate>
+          <div class="survey-step active" data-step="1">
+            <span class="step-chip">Шаг 1</span><h2>Познакомимся?</h2><p>Можно указать псевдоним ребёнка.</p>
+            <div class="form-grid">
+              <label class="full">Имя или псевдоним<input name="childName" required autocomplete="off" placeholder="Например, Айару"></label>
+              <label>Возраст<select name="age" required><option value="">Выберите</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option></select></label>
+              <label>Город<select name="city" required id="surveyCity"><option value="">Выберите город</option></select></label>
+              <label>Основной язык<select name="mainLanguage" required><option value="">Выберите основной язык</option><option value="ru">Русский</option><option value="kk">Қазақша</option></select></label>
+              <label>Дополнительный язык<select name="secondLanguage"><option value="">Не указан</option><option value="ru">Русский</option><option value="kk">Қазақша</option><option value="en">Английский</option></select></label>
+            </div>
+            <fieldset><legend>Удобный формат</legend><div class="choice-row"><label class="choice"><input type="radio" name="format" value="online"><span>💻 Онлайн</span></label><label class="choice"><input type="radio" name="format" value="in_person"><span>🏠 Очно</span></label><label class="choice"><input type="radio" name="format" value="any"><span>✨ Любой</span></label></div></fieldset>
+          </div>
+          <div class="survey-step" data-step="2">
+            <span class="step-chip">Шаг 2</span><h2>Есть ли подтверждённый диагноз?</h2><p>Этот вопрос можно пропустить.</p>
+            <div class="choice-stack" id="diagnosisStatus"></div>
+            <div id="diagnosisOptions" class="conditional hidden"><h3>Можно выбрать несколько</h3><div class="tag-choices" id="diagnosisTags"></div></div>
+            <div class="warning-card">ⓘ Платформа не определяет диагноз. Указывайте только информацию от квалифицированного специалиста.</div>
+          </div>
+          <div class="survey-step" data-step="3">
+            <span class="step-chip">Шаг 3</span><h2>Что сейчас требует поддержки?</h2><p>Выберите всё, что похоже на вашу текущую ситуацию.</p>
+            <div class="tile-choices" id="difficultyChoices"></div>
+          </div>
+          <div class="survey-step" data-step="4">
+            <span class="step-chip">Шаг 4</span><h2>Какова цель обращения?</h2><p>Это поможет сузить подбор.</p>
+            <div class="tile-choices compact-tiles" id="goalChoices"></div>
+          </div>
+          <div class="survey-step" data-step="5">
+            <span class="step-chip">Готово</span><h2>Вам могут подойти эти направления</h2>
+            <p>Это демонстрационный подбор, а не медицинское заключение.</p>
+            <div class="summary-card" id="surveySummary"></div>
+            <div class="recommendation-tags" id="recommendationTags"></div>
+            <div class="mini-specialists" id="surveyMatches"></div>
+          </div>
+          <div class="form-error" id="surveyError" role="alert"></div>
+          <div class="survey-actions">
+            <button type="button" class="btn btn-soft" id="surveyPrev">← Назад</button>
+            <button type="button" class="btn btn-primary" id="surveyNext">Продолжить →</button>
+            <button type="button" class="btn btn-primary hidden" id="saveChildProfile">Сохранить профиль</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <section class="view" id="parentView" data-view="parent">
+      <div class="dashboard-shell container">
+        <div class="dashboard-welcome">
+          <div><span class="eyebrow">Кабинет родителя</span><h1 id="parentGreeting">Добрый день, мама Айару!</h1><p>Сегодня достаточно одного маленького шага.</p></div>
+          <div class="next-meeting" id="nextMeeting"><span>Следующая встреча</span><b>22 июля · 15:30</b><small>Онлайн · Дана Нурланова</small></div>
+        </div>
+        <div class="stat-grid" id="parentStats"></div>
+        <div class="dashboard-grid">
+          <section class="panel span-2 child-profile-panel" id="childProfilePanel"></section>
+          <section class="panel span-2 ai-parent-plan" id="parentAIPlanPanel" aria-live="polite"></section>
+          <section class="panel span-2 ai-observation-panel" id="parentAIObservationPanel"></section>
+          <section class="panel span-2" id="demoPlanPanel">
+            <div class="panel-heading"><div><span class="eyebrow">Сегодня</span><h2 id="parentPlanTitle">План Айару</h2></div><button class="text-btn" data-route="qadam">Все задания →</button></div>
+            <div id="todayTasks"></div>
+          </section>
+          <section class="panel mood-card">
+            <span class="eyebrow">Бережное наблюдение</span><h2>Как ребёнок чувствует себя сегодня?</h2>
+            <div class="mood-grid" id="moodGrid"></div>
+            <small id="moodSaved">Выбор сохранится только на этом устройстве.</small>
+          </section>
+          <section class="panel" id="demoGoalsPanel">
+            <div class="panel-heading"><h2>Активные цели</h2><button class="text-btn" data-route="qadam">Подробнее</button></div>
+            <div id="parentGoals"></div>
+          </section>
+          <section class="panel" id="demoCommentPanel">
+            <h2>Комментарий специалиста</h2>
+            <blockquote>«Айару всё чаще выбирает карточку без подсказки. На этой неделе дайте ей немного больше времени на самостоятельный выбор».</blockquote>
+            <div class="person-line"><span class="avatar">ДН</span><span><b>Дана Нурланова</b><small>Демо-логопед · вчера</small></span></div>
+          </section>
+          <section class="quick-modules span-2">
+            <button class="quick-module qadam-mini" data-route="qadam"><span>↗</span><b>Открыть Қадам</b><small>План, задания и прогресс</small></button>
+            <button class="quick-module soyle-mini" data-route="soyle"><span>♪</span><b>Открыть Сөйле</b><small>Карточки для общения</small></button>
+            <button class="quick-module observe-mini" data-action="observation"><span>＋</span><b>Добавить наблюдение</b><small>Что изменилось сегодня</small></button>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="specialistView" data-view="specialist">
+      <div class="dashboard-shell container">
+        <div class="dashboard-welcome"><div><span class="eyebrow">Кабинет специалиста</span><h1>Добрый день, Дана!</h1><p>У вас 2 встречи и 3 отметки родителей на проверку.</p></div><button class="btn btn-primary" data-action="create-task">＋ Добавить задание</button></div>
+        <div class="stat-grid" id="specialistStats"></div>
+        <div class="dashboard-grid">
+          <section class="panel span-2"><div class="panel-heading"><div><span class="eyebrow">Сопровождение</span><h2>Дети и активные планы</h2></div><label class="search-box small"><span>⌕</span><input placeholder="Найти ребёнка"></label></div><div class="children-list" id="childrenList"></div></section>
+          <section class="panel"><h2>Сегодня</h2><div class="timeline compact-timeline" id="todayMeetings"></div></section>
+          <section class="panel"><h2>Последние сообщения</h2><div class="messages-list" id="messagesList"></div></section>
+          <section class="panel span-2">
+            <div class="panel-heading"><div><span class="eyebrow">Быстрые действия</span><h2>Обновить план Айару</h2></div></div>
+            <div class="button-row wrap"><button class="btn btn-primary" id="openAIPlanBtn" data-route="ai-plan">AI-план развития</button><button class="btn btn-soft" data-action="create-goal">Создать цель</button><button class="btn btn-soft" data-action="create-task">Добавить задание</button><button class="btn btn-soft" data-action="comment">Оставить комментарий</button><button class="btn btn-soft" data-action="change-plan">Изменить план</button><button class="btn btn-soft" data-action="add-soyle">Добавить карточку в Сөйле</button></div>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="view ai-plan-view" id="aiPlanView" data-view="ai-plan">
+      <div class="dashboard-shell container">
+        <div class="dashboard-welcome ai-page-head">
+          <div>
+            <button class="back-link" data-route="specialist">← В кабинет специалиста</button>
+            <span class="eyebrow" id="aiPageEyebrow"></span>
+            <h1 id="aiPageTitle"></h1>
+            <p id="aiPageDescription"></p>
+          </div>
+          <div class="ai-health-card" id="aiHealthCard" aria-live="polite"></div>
+        </div>
+        <div class="demo-badge ai-demo-banner hidden" id="aiDemoBanner"></div>
+        <div class="ai-layout">
+          <aside class="panel ai-context-panel">
+            <div class="panel-heading">
+              <div><span class="eyebrow" id="aiContextEyebrow"></span><h2 id="aiContextTitle"></h2></div>
+              <span class="status-pill" id="aiContextStatus"></span>
+            </div>
+            <p class="ai-lead" id="aiContextHelp"></p>
+            <form id="aiContextForm" class="ai-context-form" autocomplete="off">
+              <div id="aiContextFields"></div>
+              <div class="button-row wrap ai-sticky-actions">
+                <button class="btn btn-soft" type="submit" id="saveAIContextBtn"></button>
+                <button class="btn btn-primary" type="button" id="generateAIPlanBtn"></button>
+              </div>
+            </form>
+          </aside>
+          <main class="ai-workspace">
+            <section class="panel ai-safety-card" id="aiSafetyCard"></section>
+            <section class="panel ai-note-panel" id="aiNotePanel"></section>
+            <section class="panel ai-loading hidden" id="aiLoading" aria-live="polite"></section>
+            <section class="panel ai-error hidden" id="aiError" role="alert"></section>
+            <section class="panel ai-plan-workspace" id="aiPlanWorkspace" aria-live="polite"></section>
+            <section class="panel ai-analysis-panel" id="aiAnalysisPanel"></section>
+            <section class="panel ai-history-panel" id="aiHistoryPanel"></section>
+          </main>
+        </div>
+      </div>
+    </section>
+
+    <section class="view" id="adminView" data-view="admin">
+      <div class="dashboard-shell container">
+        <div class="dashboard-welcome"><div><span class="eyebrow">Демо-панель администратора</span><h1>Платформа работает спокойно</h1><p>Обзор заявок, профилей и образовательных материалов.</p></div><span class="status-pill success">● Все системы доступны</span></div>
+        <div class="stat-grid" id="adminStats"></div>
+        <section class="panel"><div class="panel-heading"><div><span class="eyebrow">Новые заявки</span><h2>Проверка специалистов</h2></div></div><div class="admin-table" id="adminApplications"></div></section>
+      </div>
+    </section>
+
+    <section class="view" id="qadamView" data-view="qadam">
+      <div class="qadam-hero">
+        <div class="container qadam-head"><div><span class="eyebrow">Қадам · индивидуальный план</span><span class="demo-badge qadam-demo-note">Демо-пример: план и прогресс вымышлены.</span><h1>Маленькие шаги складываются в навык</h1><p>Айару · период 8 июля — 4 августа · специалист Дана Нурланова</p></div><div class="circle-progress" style="--value:72"><b>72%</b><span>заданий выполнено</span></div></div>
+      </div>
+      <div class="container qadam-content">
+        <div class="qadam-metrics" id="qadamMetrics"></div>
+        <section class="section compact-section"><div class="section-heading split"><div><span class="eyebrow">Цели развития</span><h2>Фокус этого месяца</h2></div><button class="btn btn-soft" data-action="create-goal">＋ Новая цель</button></div><div class="goals-grid" id="goalsGrid"></div></section>
+        <section class="section compact-section"><div class="section-heading split"><div><span class="eyebrow">Задания специалиста</span><h2>Практика дома</h2></div><span class="soft-label">3 активных</span></div><div class="tasks-grid" id="tasksGrid"></div></section>
+        <section class="section compact-section progress-layout">
+          <div class="panel"><div class="panel-heading"><div><span class="eyebrow">Динамика</span><h2>Неделя в шагах</h2></div><span class="trend">↗ +12%</span></div><div class="week-chart" id="weekChart"></div><div class="chart-legend"><span><i class="mint-dot"></i> Самостоятельно 42%</span><span><i class="yellow-dot"></i> С подсказкой 38%</span><span><i class="blue-dot"></i> С помощью 20%</span></div></div>
+          <div class="panel"><span class="eyebrow">Лента изменений</span><h2>Команда рядом</h2><div class="timeline" id="progressTimeline"></div></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="view soyle-view" id="soyleView" data-view="soyle">
+      <div class="soyle-topbar">
+        <div><span class="soyle-logo">Сөйле <i>●</i></span><small>Мои слова</small></div>
+        <div class="soyle-controls">
+          <div class="segmented"><button class="speech-lang active" data-speech-lang="ru">Русский</button><button class="speech-lang" data-speech-lang="kk">Қазақша</button></div>
+          <button class="btn btn-dark" id="childModeBtn">★ Детский режим</button>
+        </div>
+      </div>
+      <div class="phrase-bar">
+        <div class="phrase-slots" id="phraseSlots"><span class="phrase-placeholder">Нажимай карточки — здесь появится фраза</span></div>
+        <div class="phrase-actions"><button class="round-action speak-action" id="speakPhrase" aria-label="Озвучить фразу">▶</button><button class="round-action" id="undoPhrase" aria-label="Удалить последнее слово">↶</button><button class="round-action" id="clearPhrase" aria-label="Очистить фразу">×</button><button class="round-action" id="savePhrase" aria-label="Сохранить фразу">☆</button></div>
+      </div>
+      <div class="soyle-body">
+        <aside class="soyle-categories"><h2>Категории</h2><div id="soyleCategories"></div></aside>
+        <main class="soyle-main">
+          <div class="soyle-heading"><div><span class="eyebrow">Жираф помогает попросить</span><h1 id="soyleCategoryTitle">Основные просьбы</h1></div><label class="search-box soyle-search"><span>⌕</span><input id="soyleSearch" placeholder="Найти карточку"></label></div>
+          <div class="communication-grid" id="communicationGrid" aria-live="polite"></div>
+        </main>
+        <aside class="animal-guide"><div class="animal-crop" aria-hidden="true"></div><div class="speech-bubble">Выбери карточку — я помогу её произнести!</div></aside>
+      </div>
+      <button class="exit-child hidden" id="exitChildMode">Удерживайте, чтобы выйти</button>
+    </section>
+
+    <section class="view" id="materialsView" data-view="materials">
+      <div class="page-hero materials-hero"><div><span class="eyebrow">Библиотека поддержки</span><h1>Понятные материалы для семьи</h1><p>Без пугающих формулировок, диагнозов по описанию и опасных медицинских советов.</p></div><div class="book-stack">Aa<br><small>читать спокойно</small></div></div>
+      <div class="container materials-content">
+        <div class="catalog-toolbar"><label class="search-box"><span>⌕</span><input id="articleSearch" placeholder="Поиск по материалам"></label><div class="article-filter-chips" id="articleFilters"></div></div>
+        <div class="article-grid large-grid" id="materialsGrid"></div>
+      </div>
+    </section>
+
+    <section class="view" id="aboutView" data-view="about">
+      <div class="about-hero">
+        <div class="container about-grid">
+          <div><span class="eyebrow">О платформе</span><h1>Рядом с семьёй.<br>В одной команде.</h1><p>BalaQoldau помогает хранить план, задания и наблюдения в одном понятном пространстве — без постановки диагнозов и обещаний результата.</p><button class="btn btn-primary btn-large" data-route="survey">Начать с бережной анкеты</button></div>
+          <img src="assets/images/animal-helpers.png" alt="Команда животных-помощников BalaQoldau">
+        </div>
+      </div>
+      <div class="container about-content">
+        <section class="values-grid"><article><span>01</span><h2>Семья управляет доступом</h2><p>Информация ребёнка видна только подключённым специалистам.</p></article><article><span>02</span><h2>Рекомендации создаёт человек</h2><p>План составляет квалифицированный специалист, а не алгоритм.</p></article><article><span>03</span><h2>Поддержка без ярлыков</h2><p>Мы говорим о целях и навыках, не сравнивая ребёнка с другими.</p></article></section>
+        <div class="legal-card"><span>Важно</span><h2>Демонстрационная версия</h2><p>Не вводите настоящие медицинские данные. Прототип работает локально, не отправляет формы во внешние сервисы и не подключает аналитику. Платформа не ставит диагноз, не назначает лечение и не заменяет врача.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner container">
+      <div class="footer-brand"><a class="brand light" href="#home" data-route="home"><span class="brand-mark">BQ</span><span><strong>BalaQoldau</strong><small>Каждый шаг важен</small></span></a><p>Демонстрационный frontend‑прототип казахстанской платформы поддержки семьи и специалистов.</p></div>
+      <div><h3>Платформа</h3><button data-route="specialists">Специалисты</button><button data-route="qadam">Қадам</button><button data-route="soyle">Сөйле</button><button data-route="materials">Материалы</button></div>
+      <div><h3>Документы</h3><button data-action="privacy">Конфиденциальность</button><button data-action="terms">Соглашение</button><button data-action="contact">demo@balaqoldau.kz</button><span>+7 (000) 000-00-00</span></div>
+      <div><h3>Социальные сети</h3><div class="social-row"><button data-action="social">IG</button><button data-action="social">FB</button><button data-action="social">TG</button></div><small>Контакты являются заглушками.</small></div>
+    </div>
+    <div class="footer-note container">© 2026 BalaQoldau · Демо-версия. Платформа не ставит диагноз и не заменяет медицинскую помощь.</div>
+  </footer>
+
+  <div class="modal-backdrop hidden" id="modalBackdrop">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close icon-btn" id="modalClose" aria-label="Закрыть">×</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+  <div class="toast-region" id="toastRegion" aria-live="polite"></div>
+  <script src="i18n.js?v=14"></script>
+  <script src="script.js?v=14"></script>
+</body>
+</html>

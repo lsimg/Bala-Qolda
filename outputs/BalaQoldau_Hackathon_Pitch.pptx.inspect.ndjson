@@ -1,0 +1,272 @@
+{"kind":"deck","id":"pr/gpsvfi","name":"Deck"}
+{"kind":"layout","layoutId":"03eb8c7b-28c8-47c7-be63-668fbe981435","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c3c336e2-76e0-4959-ad09-1b3de9c47d83","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/d9pol6","slide":1,"title":"ЦИФРОВАЯ ПОДДЕРЖКА СЕМЬИ · ҚАЗАҚСТАН","textShapes":9}
+{"kind":"shape","id":"sh/2t03mhkj","slide":1,"bbox":[0,0,1280,6]}
+{"kind":"shape","id":"sh/pgrmhw3a","slide":1,"bbox":[850,-60,500,840]}
+{"kind":"shape","id":"sh/4vilor2p","slide":1,"bbox":[785,110,460,460]}
+{"kind":"shape","id":"sh/ri94j6l0","slide":1,"bbox":[1002,58,108,108]}
+{"kind":"shape","id":"sh/qh03q1kf","slide":1,"bbox":[1192,88,26,26]}
+{"kind":"shape","id":"sh/dkbmlg36","slide":1,"bbox":[1205,554,34,34]}
+{"kind":"shape","id":"sh/cj2lsb2l","slide":1,"bbox":[745,548,22,22]}
+{"kind":"textbox","id":"sh/zmt4n6lc","slide":1,"text":"ЦИФРОВАЯ ПОДДЕРЖКА СЕМЬИ · ҚАЗАҚСТАН","textPreview":"ЦИФРОВАЯ ПОДДЕРЖКА СЕМЬИ · ҚАЗАҚСТАН","textChars":36,"textLines":1,"bbox":[54,70,560,24]}
+{"kind":"textbox","id":"sh/elknu1kr","slide":1,"text":"Один план.\nОдна команда.","textPreview":"Один план. | Одна команда.","textChars":24,"textLines":2,"bbox":[54,116,610,152]}
+{"kind":"textbox","id":"sh/svmdwf2h","slide":1,"text":"Каждый шаг\nважен.","textPreview":"Каждый шаг | важен.","textChars":17,"textLines":2,"bbox":[54,262,610,146]}
+{"kind":"textbox","id":"sh/twvep032","slide":1,"text":"BalaQoldau — двуязычная AI-платформа, которая связывает семью, специалиста и ежедневную практику в одном понятном маршруте.","textPreview":"BalaQoldau — двуязычная AI-платформа, которая связывает семью, специалиста и ежедневную практику в одном понятном маршруте.","textChars":123,"textLines":1,"bbox":[58,442,600,84]}
+{"kind":"shape","id":"sh/6tkvu5kr","slide":1,"bbox":[58,552,176,42]}
+{"kind":"textbox","id":"sh/rudwnalw","slide":1,"text":"RU + ҚАЗАҚША","textPreview":"RU + ҚАЗАҚША","textChars":12,"textLines":1,"bbox":[68,553,156,40]}
+{"kind":"shape","id":"sh/gzmd0f2t","slide":1,"bbox":[248,552,202,42]}
+{"kind":"textbox","id":"sh/10vetk3e","slide":1,"text":"AI + СПЕЦИАЛИСТ","textPreview":"AI + СПЕЦИАЛИСТ","textChars":15,"textLines":1,"bbox":[258,553,182,40]}
+{"kind":"textbox","id":"sh/ex4vy5kn","slide":1,"text":"Хакатон · health-tech · 2026","textPreview":"Хакатон · health-tech · 2026","textChars":28,"textLines":1,"bbox":[58,635,400,26]}
+{"kind":"shape","id":"sh/o36d4z2p","slide":1,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/pofexk3a","slide":1,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/d8rm10r2","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"image","id":"im/wbix8361","slide":1,"name":"","alt":"Шесть дружелюбных животных BalaQoldau","bbox":[803,126,420,398]}
+{"kind":"notes","id":"nt/d9pol6","slide":1,"text":""}
+{"kind":"slide","id":"sl/1d51ul","slide":2,"title":"BQ","textShapes":31}
+{"kind":"shape","id":"sh/szi14neh","slide":2,"bbox":[0,0,1280,6]}
+{"kind":"textbox","id":"sh/ry9kvixw","slide":2,"text":"BQ","textPreview":"BQ","textChars":2,"textLines":1,"bbox":[54,26,46,46]}
+{"kind":"textbox","id":"sh/qx0j2dwr","slide":2,"text":"BalaQoldau","textPreview":"BalaQoldau","textChars":10,"textLines":1,"bbox":[112,24,230,28]}
+{"kind":"textbox","id":"sh/5wr2t8f6","slide":2,"text":"Баланы Қолдау","textPreview":"Баланы Қолдау","textChars":13,"textLines":1,"bbox":[112,51,190,18]}
+{"kind":"shape","id":"sh/4vi103el","slide":2,"bbox":[1018,28,172,30]}
+{"kind":"textbox","id":"sh/3upkrix0","slide":2,"text":"АКТУАЛЬНОСТЬ","textPreview":"АКТУАЛЬНОСТЬ","textChars":12,"textLines":1,"bbox":[1028,29,152,28]}
+{"kind":"textbox","id":"sh/itgjydwf","slide":2,"text":"ПРОБЛЕМА И РЕШЕНИЕ","textPreview":"ПРОБЛЕМА И РЕШЕНИЕ","textChars":18,"textLines":1,"bbox":[54,96,720,24]}
+{"kind":"shape","id":"sh/9sb25cfa","slide":2,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/or2lc7ep","slide":2,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/2hgjqhgf","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"textbox","id":"sh/nip0zmh0","slide":2,"text":"Семье нужен маршрут, а не набор\nразрозненных сервисов","textPreview":"Семье нужен маршрут, а не набор | разрозненных сервисов","textChars":53,"textLines":2,"bbox":[54,128,1135,96]}
+{"kind":"shape","id":"sh/ojy1sryl","slide":2,"bbox":[54,254,565,118]}
+{"kind":"shape","id":"sh/pk7i1wz6","slide":2,"bbox":[74,276,54,54]}
+{"kind":"textbox","id":"sh/etwjmhgj","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[74,275,54,54]}
+{"kind":"shape","id":"sh/fu50vmh4","slide":2,"bbox":[137,272,463,30]}
+{"kind":"textbox","id":"sh/0ve1ory9","slide":2,"text":"Поиск вслепую","textPreview":"Поиск вслепую","textChars":13,"textLines":1,"bbox":[149,274,439,28]}
+{"kind":"textbox","id":"sh/1g7ixwzu","slide":2,"text":"Родителям трудно понять, к какому специалисту обратиться и с чего начать.","textPreview":"Родителям трудно понять, к какому специалисту обратиться и с чего начать.","textChars":73,"textLines":1,"bbox":[138,311,457,48]}
+{"kind":"shape","id":"sh/yp0jylgn","slide":2,"bbox":[54,385,565,118]}
+{"kind":"shape","id":"sh/zq9k76h8","slide":2,"bbox":[74,407,54,54]}
+{"kind":"textbox","id":"sh/viho3et8","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[74,406,54,54]}
+{"kind":"shape","id":"sh/ah87a9s3","slide":2,"bbox":[137,403,463,30]}
+{"kind":"textbox","id":"sh/xkj65obe","slide":2,"text":"Сложные рекомендации","textPreview":"Сложные рекомендации","textChars":20,"textLines":1,"bbox":[149,405,439,28]}
+{"kind":"textbox","id":"sh/wjapcjat","slide":2,"text":"Профессиональные записи не всегда превращаются в понятные действия дома.","textPreview":"Профессиональные записи не всегда превращаются в понятные действия дома.","textChars":72,"textLines":1,"bbox":[138,442,457,48]}
+{"kind":"shape","id":"sh/jm1o7etk","slide":2,"bbox":[54,516,565,118]}
+{"kind":"shape","id":"sh/ils7etsz","slide":2,"bbox":[74,538,54,54]}
+{"kind":"textbox","id":"sh/5ojq9obq","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[74,537,54,54]}
+{"kind":"shape","id":"sh/4napgja5","slide":2,"bbox":[137,534,463,30]}
+{"kind":"textbox","id":"sh/rq18bytg","slide":2,"text":"Прогресс теряется","textPreview":"Прогресс теряется","textChars":17,"textLines":1,"bbox":[149,536,439,28]}
+{"kind":"textbox","id":"sh/6ps7itsv","slide":2,"text":"Заметки, задания и результаты живут отдельно — динамику трудно увидеть.","textPreview":"Заметки, задания и результаты живут отдельно — динамику трудно увидеть.","textChars":71,"textLines":1,"bbox":[138,573,457,48]}
+{"kind":"shape","id":"sh/ofu583q9","slide":2,"bbox":[676,254,550,393]}
+{"kind":"shape","id":"sh/pg36187u","slide":2,"bbox":[704,276,224,34]}
+{"kind":"textbox","id":"sh/2dcn6t83","slide":2,"text":"РЕШЕНИЕ BALАQOLDAU","textPreview":"РЕШЕНИЕ BALАQOLDAU","textChars":18,"textLines":1,"bbox":[714,277,204,32]}
+{"kind":"textbox","id":"sh/3elozypo","slide":2,"text":"Один цифровой маршрут","textPreview":"Один цифровой маршрут","textChars":21,"textLines":1,"bbox":[704,328,470,52]}
+{"kind":"shape","id":"sh/gru54jqx","slide":2,"bbox":[704,398,34,34]}
+{"kind":"textbox","id":"sh/1s36xo7i","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[704,398,34,34]}
+{"kind":"textbox","id":"sh/epsn2t87","slide":2,"text":"Подбор специалиста","textPreview":"Подбор специалиста","textChars":18,"textLines":1,"bbox":[754,397,190,24]}
+{"kind":"textbox","id":"sh/fqlovy9s","slide":2,"text":"анкета и каталог","textPreview":"анкета и каталог","textChars":16,"textLines":1,"bbox":[946,398,242,34]}
+{"kind":"shape","id":"sh/sna50jq1","slide":2,"bbox":[704,453,34,34]}
+{"kind":"textbox","id":"sh/toj6torm","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[704,453,34,34]}
+{"kind":"textbox","id":"sh/xsz21kne","slide":2,"text":"План развития","textPreview":"План развития","textChars":13,"textLines":1,"bbox":[754,452,190,24]}
+{"kind":"textbox","id":"sh/wrql8f6t","slide":2,"text":"AI-черновик под контролем специалиста","textPreview":"AI-черновик под контролем специалиста","textChars":37,"textLines":1,"bbox":[946,453,242,34]}
+{"kind":"shape","id":"sh/vqxkzap8","slide":2,"bbox":[704,508,34,34]}
+{"kind":"textbox","id":"sh/apo365on","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[704,508,34,34]}
+{"kind":"textbox","id":"sh/5wzm5kna","slide":2,"text":"Домашняя практика","textPreview":"Домашняя практика","textChars":17,"textLines":1,"bbox":[754,507,190,24]}
+{"kind":"textbox","id":"sh/kvqlcz6p","slide":2,"text":"понятные задания для семьи","textPreview":"понятные задания для семьи","textChars":26,"textLines":1,"bbox":[946,508,242,34]}
+{"kind":"shape","id":"sh/juh43u5k","slide":2,"bbox":[704,563,34,34]}
+{"kind":"textbox","id":"sh/it83apoz","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[704,563,34,34]}
+{"kind":"textbox","id":"sh/l0f2t076","slide":2,"text":"Динамика","textPreview":"Динамика","textChars":8,"textLines":1,"bbox":[754,562,190,24]}
+{"kind":"textbox","id":"sh/0zml0v6l","slide":2,"text":"Қадам, Сөйле и отметки прогресса","textPreview":"Қадам, Сөйле и отметки прогресса","textChars":32,"textLines":1,"bbox":[946,563,242,34]}
+{"kind":"notes","id":"nt/1d51ul","slide":2,"text":""}
+{"kind":"slide","id":"sl/8f6kat","slide":3,"title":"BQ","textShapes":30}
+{"kind":"shape","id":"sh/2tcr6do7","slide":3,"bbox":[0,0,1280,6]}
+{"kind":"textbox","id":"sh/pgnahsny","slide":3,"text":"BQ","textPreview":"BQ","textChars":2,"textLines":1,"bbox":[54,26,46,46]}
+{"kind":"textbox","id":"sh/ofu98n6d","slide":3,"text":"BalaQoldau","textPreview":"BalaQoldau","textChars":10,"textLines":1,"bbox":[112,24,230,28]}
+{"kind":"textbox","id":"sh/bi5sj254","slide":3,"text":"Баланы Қолдау","textPreview":"Баланы Қолдау","textChars":13,"textLines":1,"bbox":[112,51,190,18]}
+{"kind":"shape","id":"sh/qhwraxoj","slide":3,"bbox":[1018,28,172,30]}
+{"kind":"textbox","id":"sh/dknalcnu","slide":3,"text":"ЦЕННОСТЬ","textPreview":"ЦЕННОСТЬ","textChars":8,"textLines":1,"bbox":[1028,29,152,28]}
+{"kind":"textbox","id":"sh/cje9c76p","slide":3,"text":"КАК РАБОТАЕТ ПРОДУКТ","textPreview":"КАК РАБОТАЕТ ПРОДУКТ","textChars":20,"textLines":1,"bbox":[54,96,720,24]}
+{"kind":"shape","id":"sh/zm5sn250","slide":3,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/ylwrexof","slide":3,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/sbq5sji5","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"textbox","id":"sh/dczm1ojq","slide":3,"text":"Один цикл связывает специалиста, AI и родителя","textPreview":"Один цикл связывает специалиста, AI и родителя","textChars":46,"textLines":1,"bbox":[54,128,1120,58]}
+{"kind":"textbox","id":"sh/q9onq90f","slide":3,"text":"Каждый шаг сохраняет контекст и переводит профессиональные решения в понятные действия семьи.","textPreview":"Каждый шаг сохраняет контекст и переводит профессиональные решения в понятные действия семьи.","textChars":93,"textLines":1,"bbox":[56,194,1020,34]}
+{"kind":"shape","id":"sh/rax4ze1k","slide":3,"bbox":[54,250,205,270]}
+{"kind":"shape","id":"sh/0fq5w3ih","slide":3,"bbox":[78,222,58,58]}
+{"kind":"textbox","id":"sh/1gz65oz2","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[78,223,58,56]}
+{"kind":"shape","id":"sh/ed8nut0b","slide":3,"bbox":[76,302,145,28]}
+{"kind":"textbox","id":"sh/feho3y1w","slide":3,"text":"РОДИТЕЛЬ","textPreview":"РОДИТЕЛЬ","textChars":8,"textLines":1,"bbox":[86,303,125,26]}
+{"kind":"textbox","id":"sh/o3a503id","slide":3,"text":"Анкета и профиль","textPreview":"Анкета и профиль","textChars":16,"textLines":1,"bbox":[76,346,162,60]}
+{"kind":"textbox","id":"sh/p4j698zy","slide":3,"text":"Реальные ответы сохраняются; язык и шаг не сбрасываются.","textPreview":"Реальные ответы сохраняются; язык и шаг не сбрасываются.","textChars":56,"textLines":1,"bbox":[76,414,162,92]}
+{"kind":"shape","id":"sh/xovex4nq","slide":3,"bbox":[298,250,205,270]}
+{"kind":"shape","id":"sh/cnmd4z65","slide":3,"bbox":[322,222,58,58]}
+{"kind":"textbox","id":"sh/bmdwvu50","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[322,223,58,56]}
+{"kind":"shape","id":"sh/al4v29of","slide":3,"bbox":[320,302,145,28]}
+{"kind":"textbox","id":"sh/lsfe1on2","slide":3,"text":"ПЛАТФОРМА","textPreview":"ПЛАТФОРМА","textChars":9,"textLines":1,"bbox":[330,303,125,26]}
+{"kind":"textbox","id":"sh/krmx8j6h","slide":3,"text":"Подбор специалиста","textPreview":"Подбор специалиста","textChars":18,"textLines":1,"bbox":[320,346,162,60]}
+{"kind":"textbox","id":"sh/zqdwze5w","slide":3,"text":"Каталог и фильтры формируют понятный следующий шаг.","textPreview":"Каталог и фильтры формируют понятный следующий шаг.","textChars":51,"textLines":1,"bbox":[320,414,162,92]}
+{"kind":"shape","id":"sh/yp4v69ob","slide":3,"bbox":[542,250,205,270]}
+{"kind":"shape","id":"sh/1wbepkni","slide":3,"bbox":[566,222,58,58]}
+{"kind":"textbox","id":"sh/0v2dwf6d","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[566,223,58,56]}
+{"kind":"shape","id":"sh/q10b6l4v","slide":3,"bbox":[564,302,145,28]}
+{"kind":"textbox","id":"sh/r29szqlg","slide":3,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[574,303,125,26]}
+{"kind":"textbox","id":"sh/snit8vm1","slide":3,"text":"Черновик плана","textPreview":"Черновик плана","textChars":14,"textLines":1,"bbox":[564,346,162,60]}
+{"kind":"textbox","id":"sh/doru103m","slide":3,"text":"Groq структурирует цели, этапы и домашние задания.","textPreview":"Groq структурирует цели, этапы и домашние задания.","textChars":50,"textLines":1,"bbox":[564,414,162,92]}
+{"kind":"shape","id":"sh/ep0ba547","slide":3,"bbox":[786,250,205,270]}
+{"kind":"shape","id":"sh/fq9c3als","slide":3,"bbox":[810,222,58,58]}
+{"kind":"textbox","id":"sh/0ritcvmx","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[810,223,58,56]}
+{"kind":"shape","id":"sh/1sru503i","slide":3,"bbox":[808,302,145,28]}
+{"kind":"textbox","id":"sh/utwby14n","slide":3,"text":"СПЕЦИАЛИСТ","textPreview":"СПЕЦИАЛИСТ","textChars":10,"textLines":1,"bbox":[818,303,125,26]}
+{"kind":"textbox","id":"sh/vupsr658","slide":3,"text":"Проверка и публикация","textPreview":"Проверка и публикация","textChars":21,"textLines":1,"bbox":[808,346,162,60]}
+{"kind":"textbox","id":"sh/bqh8v2xc","slide":3,"text":"Человек редактирует, подтверждает безопасность и версии.","textPreview":"Человек редактирует, подтверждает безопасность и версии.","textChars":56,"textLines":1,"bbox":[808,414,162,92]}
+{"kind":"shape","id":"sh/apor2xwr","slide":3,"bbox":[1030,250,205,270]}
+{"kind":"shape","id":"sh/xszqxcf2","slide":3,"bbox":[1054,222,58,58]}
+{"kind":"textbox","id":"sh/wrq947eh","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1054,223,58,56]}
+{"kind":"shape","id":"sh/juh8z2x8","slide":3,"bbox":[1052,302,145,28]}
+{"kind":"textbox","id":"sh/yt8r6xwn","slide":3,"text":"СЕМЬЯ","textPreview":"СЕМЬЯ","textChars":5,"textLines":1,"bbox":[1062,303,125,26]}
+{"kind":"textbox","id":"sh/lgzq1cfe","slide":3,"text":"Практика и прогресс","textPreview":"Практика и прогресс","textChars":19,"textLines":1,"bbox":[1052,346,162,60]}
+{"kind":"textbox","id":"sh/kvq987et","slide":3,"text":"Родитель видит только подтверждённый план и отмечает результат.","textPreview":"Родитель видит только подтверждённый план и отмечает результат.","textChars":63,"textLines":1,"bbox":[1052,414,162,92]}
+{"kind":"shape","id":"sh/7i1s3mxk","slide":3,"bbox":[259,342,39,44]}
+{"kind":"shape","id":"sh/6hsrahwz","slide":3,"bbox":[503,342,39,44]}
+{"kind":"shape","id":"sh/4napkrux","slide":3,"bbox":[747,342,39,44]}
+{"kind":"shape","id":"sh/po3qtwbi","slide":3,"bbox":[991,342,39,44]}
+{"kind":"shape","id":"sh/2ls7ihcr","slide":3,"bbox":[164,548,952,78]}
+{"kind":"textbox","id":"sh/3m18rmtc","slide":3,"text":"AI предлагает  →  специалист решает  →  семья понимает и действует","textPreview":"AI предлагает  →  специалист решает  →  семья понимает и действует","textChars":66,"textLines":1,"bbox":[194,566,892,42]}
+{"kind":"notes","id":"nt/8f6kat","slide":3,"text":""}
+{"kind":"slide","id":"sl/65q7qc","slide":4,"title":"BQ","textShapes":24}
+{"kind":"shape","id":"sh/tor250bu","slide":4,"bbox":[0,0,1280,6]}
+{"kind":"textbox","id":"sh/610jalc3","slide":4,"text":"BQ","textPreview":"BQ","textChars":2,"textLines":1,"bbox":[54,26,46,46]}
+{"kind":"textbox","id":"sh/7m9k3qto","slide":4,"text":"BalaQoldau","textPreview":"BalaQoldau","textChars":10,"textLines":1,"bbox":[112,24,230,28]}
+{"kind":"textbox","id":"sh/kzi18vux","slide":4,"text":"Баланы Қолдау","textPreview":"Баланы Қолдау","textChars":13,"textLines":1,"bbox":[112,51,190,18]}
+{"kind":"shape","id":"sh/50r21gbi","slide":4,"bbox":[1018,28,172,30]}
+{"kind":"textbox","id":"sh/ix0j6lc7","slide":4,"text":"ИННОВАЦИИ","textPreview":"ИННОВАЦИИ","textChars":9,"textLines":1,"bbox":[1028,29,152,28]}
+{"kind":"textbox","id":"sh/jy9kzqts","slide":4,"text":"ТЕХНОЛОГИЧНОСТЬ AI","textPreview":"ТЕХНОЛОГИЧНОСТЬ AI","textChars":18,"textLines":1,"bbox":[54,96,720,24]}
+{"kind":"shape","id":"sh/4v2lkfuh","slide":4,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/pwv2dkb2","slide":4,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/5sr61s7m","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"textbox","id":"sh/4ripsnq1","slide":4,"text":"AI ускоряет работу, но решение остаётся\nза специалистом","textPreview":"AI ускоряет работу, но решение остаётся | за специалистом","textChars":55,"textLines":2,"bbox":[54,126,1120,92]}
+{"kind":"shape","id":"sh/jq9ozipg","slide":4,"bbox":[54,252,240,274]}
+{"kind":"shape","id":"sh/ipg7qd8v","slide":4,"bbox":[74,274,200,30]}
+{"kind":"textbox","id":"sh/ho76x87q","slide":4,"text":"01 · ВХОД","textPreview":"01 · ВХОД","textChars":9,"textLines":1,"bbox":[84,275,180,28]}
+{"kind":"textbox","id":"sh/wnyponq5","slide":4,"text":"Цели и наблюдения","textPreview":"Цели и наблюдения","textChars":17,"textLines":1,"bbox":[76,330,196,68]}
+{"kind":"textbox","id":"sh/v2povipk","slide":4,"text":"Возрастная группа, сильные стороны, ограничения и направления работы.","textPreview":"Возрастная группа, сильные стороны, ограничения и направления работы.","textChars":69,"textLines":1,"bbox":[76,412,196,92]}
+{"kind":"shape","id":"sh/a1g7md8z","slide":4,"bbox":[330,252,270,274]}
+{"kind":"shape","id":"sh/1kbq9c7u","slide":4,"bbox":[350,274,230,30]}
+{"kind":"textbox","id":"sh/gj2p07q9","slide":4,"text":"02 · BACKEND","textPreview":"02 · BACKEND","textChars":12,"textLines":1,"bbox":[360,275,210,28]}
+{"kind":"textbox","id":"sh/03a9wbel","slide":4,"text":"Безопасный AI-контур","textPreview":"Безопасный AI-контур","textChars":20,"textLines":1,"bbox":[352,330,226,68]}
+{"kind":"textbox","id":"sh/14jq5gfq","slide":4,"text":"Ролевая проверка → обезличивание → server-side запрос к Groq API.","textPreview":"Ролевая проверка → обезличивание → server-side запрос к Groq API.","textChars":65,"textLines":1,"bbox":[352,412,226,92]}
+{"kind":"shape","id":"sh/e18rulwf","slide":4,"bbox":[636,252,270,274]}
+{"kind":"shape","id":"sh/z21836x0","slide":4,"bbox":[656,274,230,30]}
+{"kind":"textbox","id":"sh/czq9sbe9","slide":4,"text":"03 · ВАЛИДАЦИЯ","textPreview":"03 · ВАЛИДАЦИЯ","textChars":14,"textLines":1,"bbox":[666,275,210,28]}
+{"kind":"textbox","id":"sh/d0zq1gfu","slide":4,"text":"Строгий JSON","textPreview":"Строгий JSON","textChars":12,"textLines":1,"bbox":[658,330,226,68]}
+{"kind":"textbox","id":"sh/qx8rq1w3","slide":4,"text":"Schema validation, safety-фильтр, тревожные сигналы и история генераций.","textPreview":"Schema validation, safety-фильтр, тревожные сигналы и история генераций.","textChars":72,"textLines":1,"bbox":[658,412,226,92]}
+{"kind":"shape","id":"sh/ryh8z6xo","slide":4,"bbox":[942,252,284,274]}
+{"kind":"shape","id":"sh/4vq9ored","slide":4,"bbox":[962,274,244,30]}
+{"kind":"textbox","id":"sh/pwzqxwfy","slide":4,"text":"04 · КОНТРОЛЬ","textPreview":"04 · КОНТРОЛЬ","textChars":13,"textLines":1,"bbox":[972,275,224,28]}
+{"kind":"textbox","id":"sh/76xs7mhk","slide":4,"text":"Черновик, не диагноз","textPreview":"Черновик, не диагноз","textChars":20,"textLines":1,"bbox":[964,330,240,68]}
+{"kind":"textbox","id":"sh/65oreh0z","slide":4,"text":"Специалист редактирует, подтверждает и только затем публикует родителю.","textPreview":"Специалист редактирует, подтверждает и только затем публикует родителю.","textChars":71,"textLines":1,"bbox":[964,412,240,92]}
+{"kind":"shape","id":"sh/t8fa9wzq","slide":4,"bbox":[294,350,36,40]}
+{"kind":"shape","id":"sh/s769gri5","slide":4,"bbox":[600,350,36,40]}
+{"kind":"shape","id":"sh/fuxsb6hw","slide":4,"bbox":[906,350,36,40]}
+{"kind":"shape","id":"sh/utori10b","slide":4,"bbox":[92,566,276,42]}
+{"kind":"textbox","id":"sh/hwzadgzm","slide":4,"text":"КЛЮЧ ТОЛЬКО НА BACKEND","textPreview":"КЛЮЧ ТОЛЬКО НА BACKEND","textChars":22,"textLines":1,"bbox":[102,567,256,40]}
+{"kind":"shape","id":"sh/gvq9kbi1","slide":4,"bbox":[389,566,314,42]}
+{"kind":"textbox","id":"sh/3yhsf6hs","slide":4,"text":"RU / KK ДИНАМИЧЕСКИЙ КОНТЕНТ","textPreview":"RU / KK ДИНАМИЧЕСКИЙ КОНТЕНТ","textChars":28,"textLines":1,"bbox":[399,567,294,40]}
+{"kind":"shape","id":"sh/2x8b6107","slide":4,"bbox":[724,566,326,42]}
+{"kind":"textbox","id":"sh/md03y9sv","slide":4,"text":"БЕЗ ДИАГНОЗОВ И НАЗНАЧЕНИЙ","textPreview":"БЕЗ ДИАГНОЗОВ И НАЗНАЧЕНИЙ","textChars":26,"textLines":1,"bbox":[734,567,306,40]}
+{"kind":"shape","id":"sh/ne9kret0","slide":4,"bbox":[1071,566,155,42]}
+{"kind":"textbox","id":"sh/ofil0jal","slide":4,"text":"ВЕРСИИ","textPreview":"ВЕРСИИ","textChars":6,"textLines":1,"bbox":[1081,567,135,40]}
+{"kind":"notes","id":"nt/65q7qc","slide":4,"text":""}
+{"kind":"slide","id":"sl/vh0pmd","slide":5,"title":"BQ","textShapes":32}
+{"kind":"shape","id":"sh/jmt8r6d4","slide":5,"bbox":[0,0,1280,6]}
+{"kind":"textbox","id":"sh/4n2pkbep","slide":5,"text":"BQ","textPreview":"BQ","textChars":2,"textLines":1,"bbox":[54,26,46,46]}
+{"kind":"textbox","id":"sh/5ovqtgva","slide":5,"text":"BalaQoldau","textPreview":"BalaQoldau","textChars":10,"textLines":1,"bbox":[112,24,230,28]}
+{"kind":"textbox","id":"sh/6p47mlwv","slide":5,"text":"Баланы Қолдау","textPreview":"Баланы Қолдау","textChars":13,"textLines":1,"bbox":[112,51,190,18]}
+{"kind":"shape","id":"sh/rqd8vqdg","slide":5,"bbox":[1018,28,172,30]}
+{"kind":"textbox","id":"sh/srmpove1","slide":5,"text":"ИМПАКТ","textPreview":"ИМПАКТ","textChars":6,"textLines":1,"bbox":[1028,29,152,28]}
+{"kind":"textbox","id":"sh/dcvqx0vm","slide":5,"text":"ПРАКТИЧНОСТЬ И МАСШТАБ","textPreview":"ПРАКТИЧНОСТЬ И МАСШТАБ","textChars":22,"textLines":1,"bbox":[54,96,720,24]}
+{"kind":"shape","id":"sh/ed47qlwr","slide":5,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/fed8zqdc","slide":5,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/juxknqpg","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"textbox","id":"sh/yto3el8v","slide":5,"text":"MVP готов к пилоту — масштабируется\nпо регионам Казахстана","textPreview":"MVP готов к пилоту — масштабируется | по регионам Казахстана","textChars":58,"textLines":2,"bbox":[54,126,1120,92]}
+{"kind":"shape","id":"sh/lgfmp07m","slide":5,"bbox":[54,250,247,128]}
+{"kind":"shape","id":"sh/kf6lgvq1","slide":5,"bbox":[72,272,68,68]}
+{"kind":"textbox","id":"sh/bqdkj6pk","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[72,271,68,68]}
+{"kind":"shape","id":"sh/ap43ql8z","slide":5,"bbox":[155,270,126,28]}
+{"kind":"textbox","id":"sh/xsf2lg7a","slide":5,"text":"ЯЗЫКА","textPreview":"ЯЗЫКА","textChars":5,"textLines":1,"bbox":[165,271,106,26]}
+{"kind":"textbox","id":"sh/wr6lcbq5","slide":5,"text":"RU + қазақша","textPreview":"RU + қазақша","textChars":12,"textLines":1,"bbox":[155,306,126,54]}
+{"kind":"shape","id":"sh/vmh4vapo","slide":5,"bbox":[319,250,247,128]}
+{"kind":"shape","id":"sh/ul83m5o3","slide":5,"bbox":[337,272,68,68]}
+{"kind":"textbox","id":"sh/qhsnu9sb","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[337,271,68,68]}
+{"kind":"shape","id":"sh/rilone9w","slide":5,"bbox":[420,270,126,28]}
+{"kind":"textbox","id":"sh/sjupwjah","slide":5,"text":"РОЛИ","textPreview":"РОЛИ","textChars":4,"textLines":1,"bbox":[430,271,106,26]}
+{"kind":"textbox","id":"sh/d436por2","slide":5,"text":"родитель · специалист · центр","textPreview":"родитель · специалист · центр","textChars":29,"textLines":1,"bbox":[420,306,126,54]}
+{"kind":"shape","id":"sh/e5c7yt8n","slide":5,"bbox":[54,396,247,128]}
+{"kind":"shape","id":"sh/f6lore98","slide":5,"bbox":[72,418,68,68]}
+{"kind":"textbox","id":"sh/07up0jqd","slide":5,"text":"6+","textPreview":"6+","textChars":2,"textLines":1,"bbox":[72,417,68,68]}
+{"kind":"shape","id":"sh/1836tory","slide":5,"bbox":[155,416,126,28]}
+{"kind":"textbox","id":"sh/u98nmps3","slide":5,"text":"МОДУЛЕЙ","textPreview":"МОДУЛЕЙ","textChars":7,"textLines":1,"bbox":[165,417,106,26]}
+{"kind":"textbox","id":"sh/vahofu9o","slide":5,"text":"поиск · планы · дневник · прогресс","textPreview":"поиск · планы · дневник · прогресс","textChars":34,"textLines":1,"bbox":[155,452,126,54]}
+{"kind":"shape","id":"sh/x47qlsb6","slide":5,"bbox":[319,396,247,128]}
+{"kind":"shape","id":"sh/c3y9snal","slide":5,"bbox":[337,418,68,68]}
+{"kind":"textbox","id":"sh/b2p8jitg","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[337,417,68,68]}
+{"kind":"shape","id":"sh/a1grqdcv","slide":5,"bbox":[420,416,126,28]}
+{"kind":"textbox","id":"sh/l87apcbi","slide":5,"text":"AI-КОНТУР","textPreview":"AI-КОНТУР","textChars":9,"textLines":1,"bbox":[430,417,106,26]}
+{"kind":"textbox","id":"sh/k7y9w7ax","slide":5,"text":"Groq только через защищённый backend","textPreview":"Groq только через защищённый backend","textChars":36,"textLines":1,"bbox":[420,452,126,54]}
+{"kind":"shape","id":"sh/z6psn2tc","slide":5,"bbox":[608,250,618,274]}
+{"kind":"textbox","id":"sh/y5gruxsr","slide":5,"text":"План внедрения","textPreview":"План внедрения","textChars":14,"textLines":1,"bbox":[638,274,250,36]}
+{"kind":"shape","id":"sh/1cnqd8by","slide":5,"bbox":[638,334,52,52]}
+{"kind":"textbox","id":"sh/0be9k3ud","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[638,334,52,52]}
+{"kind":"shape","id":"sh/43ml8fyd","slide":5,"bbox":[696,346,108,28]}
+{"kind":"textbox","id":"sh/p4v2hkzy","slide":5,"text":"Пилот","textPreview":"Пилот","textChars":5,"textLines":1,"bbox":[638,404,150,28]}
+{"kind":"textbox","id":"sh/214365g7","slide":5,"text":"1 центр развития\n+ специалисты + семьи","textPreview":"1 центр развития | + специалисты + семьи","textChars":38,"textLines":2,"bbox":[638,440,156,58]}
+{"kind":"shape","id":"sh/32dkfahs","slide":5,"bbox":[823,334,52,52]}
+{"kind":"textbox","id":"sh/gzml4vyh","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[823,334,52,52]}
+{"kind":"shape","id":"sh/h0v2d0zm","slide":5,"bbox":[881,346,108,28]}
+{"kind":"textbox","id":"sh/udk32l0b","slide":5,"text":"Партнёры","textPreview":"Партнёры","textChars":8,"textLines":1,"bbox":[823,404,150,28]}
+{"kind":"textbox","id":"sh/fedkbqhw","slide":5,"text":"подключение новых\nспециалистов и городов","textPreview":"подключение новых | специалистов и городов","textChars":40,"textLines":2,"bbox":[823,440,156,58]}
+{"kind":"shape","id":"sh/sb2l0vi5","slide":5,"bbox":[1008,334,52,52]}
+{"kind":"textbox","id":"sh/tcb290zq","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1008,334,52,52]}
+{"kind":"textbox","id":"sh/v694jq1s","slide":5,"text":"Регионы","textPreview":"Регионы","textChars":7,"textLines":1,"bbox":[1008,404,150,28]}
+{"kind":"textbox","id":"sh/a503qlk7","slide":5,"text":"единый стандарт данных\nи двуязычный контент","textPreview":"единый стандарт данных | и двуязычный контент","textChars":43,"textLines":2,"bbox":[1008,440,156,58]}
+{"kind":"shape","id":"sh/x8bmlgji","slide":5,"bbox":[54,554,1172,78]}
+{"kind":"textbox","id":"sh/w72lsb2x","slide":5,"text":"ИЗМЕРЯЕМ В ПИЛОТЕ","textPreview":"ИЗМЕРЯЕМ В ПИЛОТЕ","textChars":17,"textLines":1,"bbox":[78,570,210,42]}
+{"kind":"textbox","id":"sh/jat4nq1o","slide":5,"text":"время подготовки плана  ·  выполнение заданий  ·  своевременность пересмотра  ·  понятность рекомендаций семье","textPreview":"время подготовки плана  ·  выполнение заданий  ·  своевременность пересмотра  ·  понятность рекомендаций семье","textChars":110,"textLines":1,"bbox":[292,570,902,42]}
+{"kind":"notes","id":"nt/vh0pmd","slide":5,"text":""}
+{"kind":"slide","id":"sl/ctn6yd","slide":6,"title":"BQ","textShapes":19}
+{"kind":"shape","id":"sh/s7qxovq9","slide":6,"bbox":[0,0,1280,6]}
+{"kind":"textbox","id":"sh/rmhgvq9o","slide":6,"text":"BQ","textPreview":"BQ","textChars":2,"textLines":1,"bbox":[54,26,46,46]}
+{"kind":"textbox","id":"sh/6l8fm583","slide":6,"text":"BalaQoldau","textPreview":"BalaQoldau","textChars":10,"textLines":1,"bbox":[112,24,230,28]}
+{"kind":"textbox","id":"sh/5kzyt0ri","slide":6,"text":"Баланы Қолдау","textPreview":"Баланы Қолдау","textChars":13,"textLines":1,"bbox":[112,51,190,18]}
+{"kind":"shape","id":"sh/4j6xkvqx","slide":6,"bbox":[1018,28,172,30]}
+{"kind":"textbox","id":"sh/jixwrq9c","slide":6,"text":"ДЕМО","textPreview":"ДЕМО","textChars":4,"textLines":1,"bbox":[1028,29,152,28]}
+{"kind":"textbox","id":"sh/ihofil87","slide":6,"text":"ФИНАЛЬНЫЙ ПИТЧ","textPreview":"ФИНАЛЬНЫЙ ПИТЧ","textChars":14,"textLines":1,"bbox":[54,96,720,24]}
+{"kind":"shape","id":"sh/pgjy5krm","slide":6,"bbox":[0,714,1280,6]}
+{"kind":"textbox","id":"sh/ofaxwfqh","slide":6,"text":"BalaQoldau · Баланы Қолдау","textPreview":"BalaQoldau · Баланы Қолдау","textChars":26,"textLines":1,"bbox":[54,682,500,24]}
+{"kind":"textbox","id":"sh/mlczqlkb","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1174,680,52,26]}
+{"kind":"textbox","id":"sh/n65gjqlw","slide":6,"text":"BalaQoldau превращает\nрекомендации в понятные\nежедневные шаги","textPreview":"BalaQoldau превращает | рекомендации в понятные | ежедневные шаги","textChars":61,"textLines":3,"bbox":[54,126,600,150]}
+{"kind":"textbox","id":"sh/o7ehsv2h","slide":6,"text":"Платформа уже объединяет ключевой путь семьи:","textPreview":"Платформа уже объединяет ключевой путь семьи:","textChars":45,"textLines":1,"bbox":[56,296,560,30]}
+{"kind":"shape","id":"sh/98nyl032","slide":6,"bbox":[56,346,530,56]}
+{"kind":"shape","id":"sh/ehcfmlkf","slide":6,"bbox":[70,354,40,40]}
+{"kind":"textbox","id":"sh/zilgf6lk","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,354,40,40]}
+{"kind":"shape","id":"sh/0juxob25","slide":6,"bbox":[122,356,438,36]}
+{"kind":"textbox","id":"sh/1k3yhg3q","slide":6,"text":"Найти специалиста","textPreview":"Найти специалиста","textChars":17,"textLines":1,"bbox":[132,357,418,34]}
+{"kind":"shape","id":"sh/ydwzy5kj","slide":6,"bbox":[56,416,530,56]}
+{"kind":"shape","id":"sh/jepgral4","slide":6,"bbox":[70,424,40,40]}
+{"kind":"textbox","id":"sh/fihwj21g","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[70,424,40,40]}
+{"kind":"shape","id":"sh/uh8vqx0v","slide":6,"bbox":[122,426,438,36]}
+{"kind":"textbox","id":"sh/hkzelcjm","slide":6,"text":"Получить проверенный план","textPreview":"Получить проверенный план","textChars":25,"textLines":1,"bbox":[132,427,418,34]}
+{"kind":"shape","id":"sh/gjqds7i1","slide":6,"bbox":[56,486,530,56]}
+{"kind":"shape","id":"sh/3mhwn21c","slide":6,"bbox":[70,494,40,40]}
+{"kind":"textbox","id":"sh/2l8vuh07","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,494,40,40]}
+{"kind":"shape","id":"sh/pojepcji","slide":6,"bbox":[122,496,438,36]}
+{"kind":"textbox","id":"sh/4nadw7ix","slide":6,"text":"Видеть прогресс ребёнка","textPreview":"Видеть прогресс ребёнка","textChars":23,"textLines":1,"bbox":[132,497,418,34]}
+{"kind":"shape","id":"sh/rq1wrm1o","slide":6,"bbox":[56,576,530,64]}
+{"kind":"textbox","id":"sh/qpsvyh03","slide":6,"text":"AI предлагает. Специалист решает. Семья действует.","textPreview":"AI предлагает. Специалист решает. Семья действует.","textChars":50,"textLines":1,"bbox":[78,588,486,40]}
+{"kind":"shape","id":"sh/ofud8ry1","slide":6,"bbox":[666,128,560,340]}
+{"kind":"shape","id":"sh/9g3uhwfm","slide":6,"bbox":[682,144,528,34]}
+{"kind":"shape","id":"sh/mdsv6hgb","slide":6,"bbox":[698,155,10,10]}
+{"kind":"shape","id":"sh/nelcfmxw","slide":6,"bbox":[714,155,10,10]}
+{"kind":"shape","id":"sh/0rad4ry5","slide":6,"bbox":[730,155,10,10]}
+{"kind":"textbox","id":"sh/1sjudcfq","slide":6,"text":"balaqoldau-support-demo.mukhtarovagulsims.chatgpt.site","textPreview":"balaqoldau-support-demo.mukhtarovagulsims.chatgpt.site","textChars":54,"textLines":1,"bbox":[760,150,430,20]}
+{"kind":"shape","id":"sh/zq1cbmxk","slide":6,"bbox":[860,496,190,42]}
+{"kind":"textbox","id":"sh/cnat07y9","slide":6,"text":"РАБОЧИЙ ПРОТОТИП","textPreview":"РАБОЧИЙ ПРОТОТИП","textChars":16,"textLines":1,"bbox":[870,497,170,40]}
+{"kind":"textbox","id":"sh/doju9cfe","slide":6,"text":"Пилот: центр развития + специалисты + семьи","textPreview":"Пилот: центр развития + специалисты + семьи","textChars":43,"textLines":1,"bbox":[684,556,524,28]}
+{"kind":"image","id":"im/pgfmt0vm","slide":6,"name":"","geometry":"roundRect","alt":"Главная страница прототипа BalaQoldau","bbox":[682,184,528,253]}
+{"kind":"notes","id":"nt/ctn6yd","slide":6,"text":""}

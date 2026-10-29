@@ -1,0 +1,12 @@
+{
+  "name": "balaqoldau-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BalaQoldau static frontend prototype",
+  "scripts": {
+    "dev": "npx serve . -l 4173",
+    "build": "node build.mjs",
+    "test": "node --test --test-isolation=none tests/*.test.mjs"
+  }
+}
